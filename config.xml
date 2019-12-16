@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="https://hussamaa.github.io/" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="Qe0NQhUxB2.BibleVerseForToday" package="Qe0NQhUxB2" required_version="2.3.1"/>
+    <author email="hussama.ismail@gmail.com">Hussama Ismail</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <name>BibleEncouragementVerseForToday</name>
+    <tizen:privilege name="http://tizen.org/privilege/notification"/>
+    <tizen:profile name="wearable"/>
+</widget>
