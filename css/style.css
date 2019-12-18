@@ -5,6 +5,10 @@
 	padding-right: 30px;
 }
 
+.ui-page .ui-header .ui-title {
+	color: #F9B54C;
+}
+
 .button-group-height {
 	height: 72px;
 }
