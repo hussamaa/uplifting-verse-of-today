@@ -90,6 +90,20 @@
             }
         });
     }
+    
+    /**
+     * Bind of the onPause event.
+     */
+    function onPause() {
+    	tizen.power.release("SCREEN");
+    }
+
+    /**
+     * Bind of the onResume event.
+     */
+    function onResume() {
+        tizen.power.request("SCREEN", "SCREEN_NORMAL");
+    }
 	
     /**
      * Binds Default Events.
@@ -97,6 +111,8 @@
      */
     function bindDefaultEvents() {
         bindBackKeyEvents();
+    	document.addEventListener('pause', onPause);
+    	document.addEventListener('resume', onResume);
     }
         
     /**
