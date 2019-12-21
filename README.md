@@ -5,7 +5,7 @@ This repository contains an implementation of a webapp for Tizen wearable device
 #### Screenshots:
 
 <p align="center">
-<img src="screenshots/01.png" alt="app launcher" width="150"> &nbsp;&nbsp;&nbsp; <img src="screenshots/02.png" alt="verse example" width="150"> &nbsp;&nbsp;&nbsp; <img src="screenshots/03.png" alt="verse example 2" width="150">
+<img src="screenshots/01.png" alt="app launcher" width="150"> &nbsp;&nbsp;&nbsp; <img src="screenshots/02.png" alt="verse example" width="150"> &nbsp;&nbsp;&nbsp; <img src="screenshots/03.png" alt="verse example 2" width="150"> &nbsp;&nbsp;&nbsp; <img src="screenshots/04.png" alt="verse example 3" width="150">
 </p>
 
 #### References:
